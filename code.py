@@ -1,0 +1,1 @@
+print("i have gain full fledged knowledge in data science")
